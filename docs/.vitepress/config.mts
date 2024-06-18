@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
+  base: '/blog/', // 静态资源相对路径
   // srcDir: './',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
