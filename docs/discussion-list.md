@@ -1,7 +1,7 @@
 <!--
  * @author: biao.zhu@going-link.com
  * @Date: 2024-07-08 20:28:38
- * @LastEditTime: 2024-07-22 20:57:33
+ * @LastEditTime: 2024-07-24 20:59:54
  * @Description: 复盘系列
  * @copyright: Copyright (c) 2020, Hand
 -->
@@ -17,10 +17,59 @@
 坦克 50
 
 五菱宏光小mini -> 海鸥 -->
-## 复盘系列
+## 笔记系列
 >以前都是凭喜好和感觉来操作，感觉不能在这样下去了，需要记录并定期复盘投资笔记
+* 07/22
 
 #### 目前配置
+
+<!-- ---
+hello: world
+---
+
+<script setup>
+import { ref } from 'vue'
+
+const count = ref(0)
+</script>
+
+## Markdown Content
+
+The count is: {{ count }}
+
+<button :class="$style.button" @click="count++">Increment</button>
+
+<style module>
+.button {
+  color: red;
+  font-weight: bold;
+}
+</style> -->
+
+
+
+| Tables        |      Are      |  Cool |
+| ------------- | :-----------: | ----: |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
+
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+
+```mermaid
+pie
+    title Pie Chart
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 150 
+```
+
 
 美股：**$500**  
 正股  
@@ -41,6 +90,9 @@ A股：**¥100000**
 - 卖出预期：预期价格 72，预计需要2-3个月 也就是10月份。  
 - 波段操作：是，日常可52以下适量买入，57以上适量卖出，波段资金操作占比 20%。【50 - 75】。    
 
+- 变更记录：  
+  07/24 科博达跌至50 加了2手
+
 **五粮液**：  
 - 持仓情况：2手 **25%** 目前成本 127。  
 - 购买原因：无。  
@@ -52,7 +104,9 @@ A股：**¥100000**
 - 购买原因：成本较低，亏损可能性小。  
 - 卖出预期：无法判断。  
 - 波段操作：无。  
-        
+- 变更记录：  
+  07/24 同方股份 略亏出售1500 只留500 
+    
 基金：¥8000
 - 纳指：  
   - 持仓情况：8000 目前收益率 4  
@@ -73,19 +127,16 @@ A股：**¥100000**
         4.盈利很多时，只操作收益部分  
 
 策略：次要，伴生要求 执行力  
-- what： 
+- what： 交易系统
 - how： 良好的仓位管理，分散配置
 
 消息：关注国内外重大消息，并从消息中提取有效信息  
-- what：  
-- how：  
 
 认知：需要不断提高。  
-- why：  
-- how：  
 
 以上总结我的学习认知：心态 > 策略 > 消息  
 而我们需要的是一个良好的心态，可执行的策略，关注不同圈子的消息。当然，有时候可靠的消息胜过一切，但是这注定可遇不可求。如果遇到了，不妨all in。
+
 
 
 
